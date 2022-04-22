@@ -1,4 +1,4 @@
-package com.imaohd.cryptocurrency.ui.theme
+package com.imaohd.cryptocurrency.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
